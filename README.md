@@ -1,6 +1,10 @@
 # waka-time-readme
 
 
+## Spotify Playing
+
+[![Spotify](https://spotify-playing-now-imsrikant.vercel.app/api/spotify)](https://open.spotify.com/user/zbbwgd5b5xqg388spshqfy1er)
+
 
 <!--START_SECTION:waka-->
 
