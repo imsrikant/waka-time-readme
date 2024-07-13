@@ -9,13 +9,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 June 2023 - To: 11 July 2024
+From: 12 June 2023 - To: 12 July 2024
 
-Total Time: 341 hrs 30 mins
+Total Time: 342 hrs 58 mins
 
-Python             135 hrs 6 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.78 %
-HTML               62 hrs 31 mins  ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.64 %
-Other              58 hrs 23 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.60 %
+Python             136 hrs 33 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.02 %
+HTML               62 hrs 31 mins  ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.58 %
+Other              58 hrs 28 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.56 %
 ```
 
 <!--END_SECTION:waka-->
